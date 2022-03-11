@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 
 namespace QuotesApi.modules
 {
-    public class quote
+    public class Quote
     {
 
-        public int ID { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-
+        // creating properties 
     }
 }

@@ -36,3 +36,13 @@ C:\Users\USER\Desktop\New folder (2)\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi
 C:\Users\USER\Desktop\New folder (2)\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.pdb
 C:\Users\USER\Desktop\New folder (2)\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.genruntimeconfig.cache
 C:\Users\USER\Desktop\New folder (2)\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.csproj.CopyComplete
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.AssemblyInfo.cs
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.dll
+C:\Users\USER\Desktop\Restful-APIs\QuotesApi\obj\Debug\netcoreapp3.1\QuotesApi.pdb
